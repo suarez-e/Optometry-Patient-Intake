@@ -6,11 +6,11 @@ My program features a clean, intuitive user interface built with Python's Tkinte
 
 ### Key Features
 - **Drop-Down Menus**: Easily select options from comprehensive drop-down menus for quick and accurate data entry.
-- <img width="334" alt="Screenshot 2024-05-28 at 10 16 07 AM" src="https://github.com/suarez-e/Optometry-Patient-Intake/assets/139792822/22709465-d098-475b-b595-061c48c21a2e">
+<img width="334" alt="Screenshot 2024-05-28 at 10 16 07 AM" src="https://github.com/suarez-e/Optometry-Patient-Intake/assets/139792822/22709465-d098-475b-b595-061c48c21a2e">
 - **Patient Information Input**: Securely collect essential patient details including name, contact information, and medical history.
 - **Special Notes/Comments**: Add specific notes and comments to each patient’s file to ensure personalized care.
 - **Service Summary Display**: With just one click, view a detailed summary of selected services along with the total cost, providing transparency and clarity.
-- <img width="358" alt="Screenshot 2024-05-28 at 10 16 30 AM" src="https://github.com/suarez-e/Optometry-Patient-Intake/assets/139792822/d6d57524-d1d3-4ef9-bc6c-7752a6bc201d">
+<img width="358" alt="Screenshot 2024-05-28 at 10 16 30 AM" src="https://github.com/suarez-e/Optometry-Patient-Intake/assets/139792822/d6d57524-d1d3-4ef9-bc6c-7752a6bc201d">
 
 
 ### Benefits
