@@ -11,12 +11,15 @@ My program features a clean, intuitive user interface built with Python's Tkinte
 - **Patient Information Input**: Securely collect essential patient details including name, contact information, and medical history.
 - **Special Notes/Comments**: Add specific notes and comments to each patient’s file to ensure personalized care.
 - **Service Summary Display**: With just one click, view a detailed summary of selected services along with the total cost, providing transparency and clarity.
-<img width="358" alt="Screenshot 2024-05-28 at 10 16 30 AM" src="https://github.com/suarez-e/Optometry-Patient-Intake/assets/139792822/d6d57524-d1d3-4ef9-bc6c-7752a6bc201d">
+<img width="309" alt="Screenshot 2024-05-28 at 3 51 38 PM" src="https://github.com/suarez-e/Optometry-Patient-Intake/assets/139792822/1c667ec0-2e1a-4b41-abd3-a851e59c896b">
 
 
-### Benefits
+### Target Benefits
 - **Increased Efficiency**: Reduce patient intake time by up to 50%, allowing your staff to focus on providing high-quality care.
 - **Enhanced Accuracy**: Minimize data entry errors with structured input fields and drop-down menus.
 - **Better Patient Experience**: Improve patient satisfaction with a faster, smoother check-in process.
+
+### Code Source
+For more in-depth details and structure regarding my source code, please be sure to check out my py file under .venv, thank you!
 
  
