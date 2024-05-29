@@ -2,16 +2,20 @@ Welcome to my Optometry Intake Management System, designed specifically for smal
 
 ### User-Friendly Interface
 My program features a clean, intuitive user interface built with Python's Tkinter. This ensures that even users with minimal technical experience can navigate the system with ease.
-<img width="1198" alt="Screenshot 2024-05-28 at 3 45 27 PM" src="https://github.com/suarez-e/Optometry-Patient-Intake/assets/139792822/dd3eb65c-9510-4a84-9a41-ac861abe2e70">
+<img width="1197" alt="Screenshot 2024-05-28 at 11 14 17 PM" src="https://github.com/suarez-e/Patient-Intake/assets/139792822/26dc8d63-078a-4bbf-9b9e-bce2188775a2">
+
+
 
 ### Key Features
 - **Drop-Down Menus**: Easily select options from comprehensive drop-down menus for quick and accurate data entry.
-<img width="334" alt="Screenshot 2024-05-28 at 10 16 07 AM" src="https://github.com/suarez-e/Optometry-Patient-Intake/assets/139792822/22709465-d098-475b-b595-061c48c21a2e">
+<img width="366" alt="Screenshot 2024-05-28 at 11 06 12 PM" src="https://github.com/suarez-e/Patient-Intake/assets/139792822/1ef9aec5-f977-4c7f-afe2-34e29009ff5c">
 
 - **Patient Information Input**: Securely collect essential patient details including name, contact information, and medical history.
+<img width="401" alt="Screenshot 2024-05-28 at 11 15 12 PM" src="https://github.com/suarez-e/Patient-Intake/assets/139792822/724a9a2b-eb0e-44f4-b87e-44a30be57826">
+
 - **Special Notes/Comments**: Add specific notes and comments to each patient’s file to ensure personalized care.
 - **Service Summary Display**: With just one click, view a detailed summary of selected services along with the total cost, providing transparency and clarity.
-<img width="309" alt="Screenshot 2024-05-28 at 3 51 38 PM" src="https://github.com/suarez-e/Optometry-Patient-Intake/assets/139792822/1c667ec0-2e1a-4b41-abd3-a851e59c896b">
+<img width="312" alt="Screenshot 2024-05-28 at 11 06 37 PM" src="https://github.com/suarez-e/Patient-Intake/assets/139792822/b805f91a-cc5e-436d-b2c3-27e43af78ecc">
 
 
 ### Target Benefits
