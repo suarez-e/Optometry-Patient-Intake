@@ -80,7 +80,9 @@ if __name__ == '__main__':
     zip_input = ttk.Entry(width=10, font='Calibri 14')
     insurance = ttk.Label(master=window, text='Insurance:', font='Calibri 16', background='#f7eae7')
     phone = ttk.Label(master=window, text="Phone Number:", font='Calibri 16', background='#b5dbfb')
-    phone_input = ttk.Entry(width=10, font='Calibri 14')
+    phone_input = ttk.Entry(width=13, font='Calibri 14')
+    date_of_visit = ttk.Label(master=window, text='Date of Visit:', font='Calibri 16', background='#b2d8fb')
+    date_input = ttk.Entry(width=13, font='Calibri 14')
 
     add_option = tk.StringVar()
     add_list = [
@@ -148,6 +150,8 @@ if __name__ == '__main__':
     zip_input.place(x=667, y=210)
     phone.place(x=420, y=255)
     phone_input.place(x=540, y=255)
+    date_of_visit.place(x=420, y=295)
+    date_input.place(x=520, y=295)
 
     #button
     summaryButton = ttk.Button(window, text="Click for Summary", command=show)
